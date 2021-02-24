@@ -1,16 +1,16 @@
-#Purpose:
+# Purpose:
 
  We are going to make a Book price comparison website in which we can find a price of a particular book in various different E-commerce stores such as amazon,flipkart etc,
 so that people can buy books according to their budget.
 
-#How I am going to do this
+# How I am going to do this
 
  Firstly we are going to design a wireframe which contains a basic content of our website.After that we are going to make database for storing user input and for connecting databse to ou
 website we use REST api. We are going to use pyhton
 
 #Database Schema design:
 
-##Following is my schema design:
+## Following is my schema design:
   -> Book_Details(Book_ID,Book_name,,Release_date,Publications,Rating)
    Here Book_ID act as our primary key.
 
