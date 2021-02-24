@@ -5,8 +5,13 @@ so that people can buy books according to their budget.
 
 # How I am going to do this:
 
-  Firstly we are going to design a wireframe which contains a basic content of our website.After that we are going to make database for storing user input and for connecting databse to ou
-website we use REST api. We are going to use pyhton
+  Firstly we are going to design a wireframe which contains a basic content of our website by which we can get a blueprint that how our website should contain.After that we are going to make database for storing user data.
+We are going to use:
+* Python
+* HTML
+* CSS
+* Visual Studio Code
+
 
 # Database Schema design:
 
@@ -22,7 +27,7 @@ website we use REST api. We are going to use pyhton
 > Sites(Book_ID,Available_on,Book_price)
 
 ## Assumptions:
-* One book may be published by many publishers so for that scenario the book published by each publishers which have been given a seperate Book_ID.
+* One book may be published by many publishers so for that scenario the book published by each publishers should have been given a seperate Book_ID.
 
 
 
