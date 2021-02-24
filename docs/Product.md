@@ -11,8 +11,9 @@ website we use REST api. We are going to use pyhton
 # Database Schema design:
 
 ## Following is my schema design-
- 1. > Book_Details (Book_ID, Book_Name, Release_date, Publications, Rating)  
-Here **Book_ID** act as our primary key.
+ 1. Here, **Book_ID** act as our primary key.  
+> Book_Details (Book_ID, Book_Name, Release_date, Publications, Rating)  
+
 
  2. There is possibilities that one book may have been printed by more than one author, so for that scenario we are going to make a new schema name as **Authors**.  
 > Authors(Book_ID,Author)
