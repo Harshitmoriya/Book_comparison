@@ -27,7 +27,7 @@ We are going to use:
 > Sites(Book_ID,Available_on,Book_price)
 
 ## Assumptions:
-* One book may be published by many publishers so for that scenario the book published by each publishers should have been given a seperate Book_ID.
+* One book may be published by many publishers so for that scenario the book published by each publications should have been given a seperate Book_ID.
 
 
 
